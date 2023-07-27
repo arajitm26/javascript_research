@@ -1,0 +1,13 @@
+{
+    "jqueryURL":"plugins/chat/assets/js/jquery.min.js",
+    "bootstrapURL":"plugins/chat/assets/vendor/bootstrap/js/bootstrap.bundle.min.js",
+    "socketURL":"plugins/chat/assets/js/socket.io-1.4.5.js",
+    "platformURL":"plugins/chat/assets/js/platform.min.js",
+    "customURL":"plugins/chat/assets/js/custom.js",
+    "materialdesigniconsCss":"plugins/chat/assets/css/materialdesignicons.min.css",
+    "bootstrapCss":"plugins/chat/assets/vendor/bootstrap/css/bootstrap.min.css",
+    "jqueryUICss":"plugins/chat/assets/vendor/jQuery-UI/jquery-ui.min.css",
+    "customCss":"plugins/chat/assets/css/custom-style.css",
+    "sweetalert":"client/js//sweetalert.min.js"
+    
+}
